@@ -1,0 +1,112 @@
+[
+	{
+		"fact" : "To be in the top 1% of earners in the UK, you need a pre-tax income of roughly £160,000. In the US, it requires $394,000.",
+		"source" : "Inequality and the 1%, Danny Dorling, Page 2"
+	},
+
+	{
+		"fact" : "The average salary of the UK's top 1% is 15 times the national average." ,
+		"source" : "Inequality and the 1%, Danny Dorling, Page 6"
+	},
+
+	{
+		"fact" : "In 2013, the minimum living wage for a couple with two children was £19,400." ,
+		"source":"Inequality and the 1%, Danny Dorling, Page 12"
+	},
+
+	{
+		"fact" : "The UK government collects 35% of its revenue from VAT and National Insurance, and only 26% from income tax." ,
+		"source" : "Inequality and the 1%, Danny Dorling, Page 20"
+	},
+
+	{
+		"fact" : "If the National Minimum Wage had kept pace with FTSE100 CEO salaries since 1999, by 2013 it would have been £18.89, not £6.19." ,
+		"source" : "Inequality and the 1%, Danny Dorling, Page 23"
+	},
+
+	{
+		"fact" : "The top 1% of the UK owns 53% of the total personal tradable wealth. The bottom 50% owns just 6%." ,
+		"source" : "Inequality and the 1%, Danny Dorling, Page 22"
+	},
+
+	{
+		"fact" : "In 2013, more than 2700 UK bankers took pay and bonuses of more than €1M. This figure was 12 times higher than any other EU country." ,
+		"source" : "Independent, Fat Cats Getting Fatter? Bankers bonus culture lives on as millionaires club tops 2700 (Friday 29 November 2013)"
+	},
+		
+	{
+		"fact" : "In 2011, 1125 households in the UK had wealth of at least $100M, not including property." ,
+		"source" : "Boston Consulting Group, 2012"
+	},
+				
+	{
+		"fact" : "The wealth increase of Britain's 100 richest people in 2014 alone could have paid for 2.76 million Living Wage jobs." ,
+		"source" : "Equality Trust, Press Release (Wednesday, 19 February, 2014)"
+	},
+			
+	{
+		"fact" : "The average FTSE 100 CEO pay is currently 410 times that of a national Living Wage worker." ,
+		"source" : "Equality Trust, Press Release (Friday, 5 August, 2016)"
+	},
+	
+	{
+		"fact" : "The life expectancy in rich areas of England is up to 8.5 years longer than in poor areas." ,
+		"source" : "Telegraph, Rich-poor life expectancy gap widens amid ‘selective migration’ by healthy, (04 November 2015)"
+	},
+	
+	{
+		"fact" : "Between January and March 2016, there were over 14,000 homeless households, up 9% on the year before." , 
+		"source" : "Department for communities and local government, Statutory homelessness, January to March 2016 (Office for National Statistics, 30 June 2016)"
+	},
+				
+	{
+		"fact" : "In 2015, the number of children living in poverty in the UK increased by 200,000 to 3.9 million. 66% of these children live in working families.",
+		"source" : "New Economics Foundation, Four million children are living in poverty: how do we stop this? (01 July 2016)"
+	},
+				
+	{
+		"fact" : "The gap between the richest and poorest areas of Britain is worse than in any other EU country." ,
+		"source" : "Briefing 61, Inequality Briefing (26 June 2015)"
+	},
+				
+	{
+		"fact" : "Since 2000, FTSE350 Directors' pay has increased by 233%, despite their companies' market value only increasing by 64%." , 
+		"source" : "Briefing 57, Inequality Briefing (24 April 2015)"
+	},
+
+	{
+		"fact" : "Between 2007 and 2013, cash benefits received by the UK's richest fifth increased by 42%, compared to -5% for the poorest fifth" ,
+		"source" : "Briefing 54, Inequality Briefing (6 March 2015)"
+	},
+	
+	{
+		"fact" : "The poorest 80% of the UK population have all seen their share of incomes fall since 1979, despite a steep rise for the richest 20%." ,
+		"source" : "Briefing 49, Inequality Briefing (14 November 2014)"
+	},
+	
+	{
+		"fact" : "The poorest 80% of the UK population have all seen their share of incomes fall since 1979, despite a steep rise for the richest 20%." ,
+		"source" : "Briefing 49, Inequality Briefing (14 November 2014)"
+	},
+	
+	{
+		"fact" : "In 2013-14, the number of people using emergency food banks rose 260% to over 900,000." ,
+		"source" : "Briefing 34, Inequality Briefing (13 June 2014)"
+	},
+	
+	{
+		"fact" : "The National Minimum Wage is currently £1.05 less than the UK Living Wage, and £2.20 less than the London Living Wage.",
+		"source":"Living Wage Foundation"
+	},
+				
+	{
+		"fact" : "Average pay for a FTSE100 CEO was £5.480 million in 2015, up from £4.129 million in 2010." ,
+		"source" : "High Pay Centre, Annual FTSE100 CEO pay review 2016"
+	},
+	
+	{
+		"fact":"Only a quarter of 100 FTSE 100 companies are accredited by the Living Wage Foundation for paying the living wage to all their UK-based staff." ,
+		"source":"High Pay Centre, Annual FTSE100 CEO pay review 2016"
+	}
+]
+
