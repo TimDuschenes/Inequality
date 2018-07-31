@@ -1,0 +1,56 @@
+
+<html>
+
+<head>
+	<title>1%</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+	<meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, width=device-width, height=device-height, user-scalable=yes">
+	<link rel="stylesheet" type="text/css" href="InequalityWebsite.css">
+	<meta charset="utf-8">
+	<meta name="author" content="Tim Duschenes">
+	<meta property="og:title" content="Inequality in the UK">
+	<meta property="og:description" content="Information about the state of inequality in the UK.">
+</head>
+
+<body> 
+	<h1 id="fact" class="subject">This is a website about inequality in the UK.</h1>
+	<h6 id="source" class="source"> </h6>
+	<a href="About.html"><h3>About this website</h3></a>
+	<button class="quip">Get started</button>
+		
+	<script> //should script tags be in body, or out?? If this was the issue, I'll be annoooooyed
+		var fact = document.getElementById('fact');
+	    var source = document.getElementById('source'); //CHECK THIS. IS THIS THE RIGHT SYNTAX FOR THE ID?
+
+	    var requestURL = 'https://raw.githubusercontent.com/TimDuschenes/Inequality/DifferentArray/Facts.json';
+	   // var requestURL = 'https://mdn.github.io/learning-area/javascript/oojs/json/superheroes.json';
+	    var request = new XMLHttpRequest();
+	    request.open('GET', requestURL);
+	    request.responseType = 'json';
+	    request.send();
+
+	    request.onload = function() {
+	      var mainList = request.response;
+	      populateFact(mainList);
+	    }
+
+	 	function populateFact(jsonObj) {
+	 		var factList = jsonObj['factList'];
+	 		var r = Math.floor((Math.random() * factList.length));
+		    var myH1 = document.createElement('h1');
+		    var myH6 = document.createElement('h6');
+		    myH1.textContent = factList[r].fact;
+		    myH6.textContent = factList[r].source;
+		    fact.innerHTML = '';
+		    source.innerHTML = '';
+		    fact.appendChild(myH1);
+		    source.appendChild(myH6);
+
+	    }
+
+	</script>
+		
+</body>
+
+
+</html>
