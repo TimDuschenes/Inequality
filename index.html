@@ -1,4 +1,3 @@
-
 <html>
 
 <head>
@@ -34,9 +33,9 @@
 	      populateFact(mainList);
 	    }
 
-	 	function populateFact(jsonObj) {
-	 		var factList = jsonObj['factList'];
-	 		var r = Math.floor((Math.random() * factList.length));
+		function populateFact(jsonObj) {
+			var factList = jsonObj['factList'];
+			var r = Math.floor((Math.random() * factList.length));
 		    var myH1 = document.createElement('h1');
 		    var myH6 = document.createElement('h6');
 		    myH1.textContent = factList[r].fact;
@@ -45,7 +44,6 @@
 		    source.innerHTML = '';
 		    fact.appendChild(myH1);
 		    source.appendChild(myH6);
-
 	    }
 
 	</script>
