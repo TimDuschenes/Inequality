@@ -1,4 +1,5 @@
-[
+{
+"factList":	[
 	{
 		"fact" : "To be in the top 1% of earners in the UK, you need a pre-tax income of roughly £160,000. In the US, it requires $394,000.",
 		"source" : "Inequality and the 1%, Danny Dorling, Page 2"
@@ -109,4 +110,5 @@
 		"source":"High Pay Centre, Annual FTSE100 CEO pay review 2016"
 	}
 ]
+}
 
